@@ -5,6 +5,8 @@ Dog
 Rabbit
 Hedgehog
 Chinchilla
+Hamster
+Iguana
 
 
 Names
